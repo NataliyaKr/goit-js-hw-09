@@ -10,9 +10,11 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  background: #ffa600;
 }
 
 img {
   display: block;
   max-width: 100%;
 }
+
